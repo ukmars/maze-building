@@ -1,5 +1,7 @@
 # Design options
 
+[Tiling](#tiling-options)
+[Layering](#layering-options)
 ## Tiling options
 
 ### 360mm Tiles and 720mm Panels
