@@ -19,9 +19,10 @@ With the relative popularity of CNC laser engraver/cutters and CNC routing machi
 
 #### Drilling Jig
 
-To make it possible for people without access to CNC machines to make a maze, we have also considered the development of a drilling jig. The idea is that a builder would only need to be able to accurately cut squares of base material and then use a jig to drill the post holes with a cheap hand drill. Such a jig could be made by those who do have access to precision machinery and then distributed to anyone who needed it. A small number of jigs would serve the needs of many and could even turn out to be the best method overall. Alignment pins locate the jig and hardened bushes make it easy to drill accurate post holes. Perhaps something like this intended for drilling holes on a 360×360 tile (A similar 9-hole jig would be used for 540×540 tiles):
+To make it possible for people without access to CNC machines to make a maze, we have also considered the development of a drilling jig. The idea is that a builder would only need to be able to accurately cut squares of base material and then use a jig to drill the post holes with a cheap hand drill. Such a jig could be made by those who do have access to precision machinery and then distributed to anyone who needed it. A small number of jigs would serve the needs of many and could even turn out to be the best method overall. 
 
-![two-hole-drilling-jig-suggestion.png](resources/two-hole-drilling-jig-suggestion.png)
+For more details look here: [Drilling Jigs](./drilling-jig/readme.md)
+
 
 
 
