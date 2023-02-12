@@ -3,7 +3,7 @@
 ## Tiling options
 
 ### 360mm Tiles and 720mm Panels
-For any design based on the tiling of individual, identical sections there are going to be constraints. A practical lower limit on the size of a tile is 360mm x 360mm since any less than that does not actually enclose a single cell. Tiling with small unit takes more effort in assembly with 64 units needed for a full size maze. Panels of 720mm x 720mm size are more convenient. This size panel could be assembled from four 360mm tiles. They are manageable in small cars and only 16 are needed to make up a full maze. A disadvantege to this size is that it *exactly* covers the 16x16 cell contest maze. That means there is no border around the maze and special infil pieces are needed to support the outer walls adequately:
+For any design based on the tiling of individual, identical sections there are going to be constraints. A practical lower limit on the size of a tile is 360mm x 360mm since any less than that does not actually enclose a single cell. Tiling with small unit takes more effort in assembly with 64 units needed for a full size maze. Panels of 720mm x 720mm size are more convenient. This size panel could be assembled from four 360mm tiles. They are manageable in small cars and only 16 are needed to make up a full maze. A disadvantege to this size is that it *exactly* covers the 16x16 cell contest maze. That means there is no border around the maze and special infill pieces are needed to support the outer walls adequately:
 
 ![tiling-360mm-squares.png](./resources/classic-maze-360mm-tiles.png)
 
