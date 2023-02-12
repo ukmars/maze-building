@@ -21,7 +21,7 @@ With the relative popularity of CNC laser engraver/cutters and CNC routing machi
 
 To make it possible for people without access to CNC machines to make a maze, we have also considered the development of a drilling jig. The idea is that a builder would only need to be able to accurately cut squares of base material and then use a jig to drill the post holes with a cheap hand drill. Such a jig could be made by those who do have access to precision machinery and then distributed to anyone who needed it. A small number of jigs would serve the needs of many and could even turn out to be the best method overall. 
 
-For more details look here: [Drilling Jigs](./drilling-jig/readme.md)
+There are more details in the [Drilling Jigs](./construction/072-Drilling-Jigs.md) page in [Construction](./construction/)
 
 
 

@@ -25,6 +25,6 @@ Regardless of the size of individual tiles they must be joined together somehow.
 
 Many options are possible for joining maze tiles but, for the current UK build, we require portability and low cost. therefore we have primarily looked at layered designs where individual tiles overlap and the posts are used to ensure horizontal algnment. Vertical alignment is more difficult and relies on, at least, a consistent thickness top layer. To maintain alignment there are three fundamental approaches and those are described in the related documents:
 
-- [Three Layers](./062-Three-Layer-Sandwich.md)
-- [Two Layers](./064-Two-Layer-Staggered.md)
-- [Single Layer](./066-Single-Layer-Tabbed.md)
+- [Three Layers](./design/062-Three-Layer-Sandwich.md)
+- [Two Layers](./design/064-Two-Layer-Staggered.md)
+- [Single Layer](./design/066-Single-Layer-Tabbed.md)
