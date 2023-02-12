@@ -16,3 +16,12 @@ Increasing the size of the tiless to 540mm x 540mm would mean that 36 tiles are 
 
 Individuals would need 9 of these tiles to make a quarter maze. Edge support strips would be needed to use the full potential area of 9 cells by 9 cells but would not be needed in a contest maze. There are more ways to arrange 9 of these intermediate size panels.
 
+## Layering Options
+
+Regardless of the size of individual tiles they must be joined together somehow. The joins must keep the tiles located both horizontally and vertically with a high degree of accuracy. the published rules permit quite large gaps and steps. This is mostly to remind builders of the worst cae. High performance mice are much more sensitive than their forebears from the 180's and are only really able to shine on a high-quality maze. Thus, a contest maze should be as close to seamless and stepless as possible.
+
+Many options are possible for joining maze tiles but, for the current UK build, we require portability and low cost. therefore we have primarily looked at layered designs where individual tiles overlap and the posts are used to ensure horizontal algnment. Vertical alignment is more difficult and relies on, at least, a consistent thickness top layer. To maintain alignment there are three fundamental approaches and those are described in the related documents:
+
+- [Three Layers](./062-Three-Layer-Sandwich.md)
+- [Two Layers](./064-Two-Layer-Staggered.md)
+- [Single Layer](./066-Single-Layer-Tabbed.md)
