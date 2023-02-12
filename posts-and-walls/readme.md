@@ -23,8 +23,11 @@ Typicaly the posts are slotted on all four sides to accept projecting tabs on th
 
 The tab and slot mechanism should allow an easy sliding fit with the slots being as deep as can reasonably be managed and the tabs slightly smaller. If the slots are too deep, the post will be weakened and if they are too wide, there may not be enough material left to survive impact from a wayward robot. Again, the specifics vary from country to country. 
 
-In the UK, the posts are likely to be 3D printed with the dimensions shown in the drawing below.
-***Note that the peg size is shown as 5.8mm. This is actually a nominal 6mm but depends how your slicer is set up***
+In the UK, the posts are likely to be 3D printed with the dimensions similar to those shown in the drawing below. The slots are a little more than 4mm wide to accomodate wall tabs that are generally 3.2-4.0mm wide. Tabs can be made from inserted strips of material such as Acrylic or MDF sheet some some variation in thickness is to be expected. The depth of the slot should be at least 2.5mm and preferably 3.0mm. If the tab on the wall projects by 2mm, a 2.5mm slot only allows a maximum worst case engagement of 1mm or so.
+
+The greatest security and tolerance might be achived with slots that are narrow and deep while running down only 38mm down from the top of the post. Tabs in the walls need only occupy the middle section of the wall 12mm either side of the centre. That way a wall could be inserted either way up and still seat properly.
+
+***Note that the peg size is shown with a diameter of 5.8mm. This is actually a nominal 6mm but depends how your slicer is set up. the layers may include, exclude or average the external dimensions***
 ![Classic Maze Post 3D Printed](./maze-post-classic-3D-print.png)
 
 
