@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="178.000mm" height="24.000mm" viewBox="13.997253 -29.000000 178.000015 24.000000">
+    <ellipse transform="matrix(1.00001,0,0,-1.00025,180,-17.001226)" style="stroke:#000000;stroke-width:0.05mm;fill:none" rx="3.000005" ry="2.999237" cx="0" cy="0"/>
+    <circle transform="matrix(1.00001,0,0,-1.00025,20.000099,-17.001226)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="1" cx="0" cy="0"/>
+    <circle transform="matrix(1.00001,0,0,-1.00025,160,-17.001226)" style="stroke:#000000;stroke-width:0.05mm;fill:none" r="1" cx="0" cy="0"/>
+    <path transform="matrix(0.927097,0,0,-1,13.997253,-5)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M0,6.000001C0,2.686291,2.89753,0,6.471817,0L180,0L180,0.008789L180.274658,0.015625C184.95636,0.216275,189.121353,3.048785,191.028564,7.329102C193.066544,12.03483,191.820831,17.519022,187.949951,20.882568C185.744583,22.816879,182.932358,23.919621,180,24L6.471817,24C2.897532,24,0.000001,21.313709,0,18L0,6.000001z"/>
+</svg>
