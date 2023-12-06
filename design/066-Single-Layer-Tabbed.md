@@ -2,7 +2,7 @@
 
 ### (5) 360mm or 540mm square tiles, one layer with tabs
 
-![tiled-360mm-maze-underside.png](resources/tiled-360mm-maze-underside.png)
+![tiled-360mm-maze-underside.png](../resources/tiled-360mm-maze-underside.png)
 (seen from the underside)
 
 Each tile would comprise a single layer of material with tabs used to support and join the layers. The
