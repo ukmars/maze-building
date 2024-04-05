@@ -12,7 +12,7 @@ The current design proposal for classic walls and posts makes used of resin prin
  - new-classic-wall-half-female.stl
  - new-classic-wall-half-male.stl
 
-the resin to be used should be a white ABS-like resin for maximum toughness. the prototypes used Elegoo ABS-like 3D printer resin:
+The resin to be used should be a white ABS-like resin for maximum toughness. The prototypes were printed with a layer height of 100microns and used Elegoo ABS-like 3D printer resin:
 
 https://www.amazon.co.uk/ELEGOO-UV-Curing-Precision-Non-Brittle-Photopolymer/dp/B08PFVSLV3/
 
