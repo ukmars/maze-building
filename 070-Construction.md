@@ -1,6 +1,6 @@
 # Construction
 
-One of the project aims was to democratise manufacture. Not everyone will have the tools and/or skills needed to make a maze or maze components. Even so, we hope to make the overall construction options as wide as possible so that fully compatible maze parts are possible and distributed as widely as possible.
+One of the project aims is to democratise manufacture. Not everyone would have the tools and/or skills needed to make a maze or maze components. Even so, we hope to make the overall construction options as wide as possible so that fully compatible maze parts are possible and distributed as widely as possible.
 
 ## Manufacture constraints
 

@@ -1,13 +1,12 @@
 # Materials
 
-Several materials were considered. Their characteristics are described below. Ultimately, we chose self-coloured MDF from Kitronic  for its consistency and to avoid any need for surface finishes.
+For the current contest maze, UKMARS is using the black-dyed MDF sheet from Kitronic. 
 
+---
 
-- **Kitronic Dyed MDF** is a product that is dyed black throughout, very durable and availale in cut panels at a significantly better price than Valchromat. Cutting tests are needed for suitability with common laser cutters. The surface is very good and has high absorbtion of IR light.
-For more details about the Kitronic material see [Kitronic Black MDF](./materials/058-Kitronic-Black-MDF.md) in the [Materials](./materials/) directory.
-<br>
+For future reference though, here is a brief consideration of some other material choices.
 
-### Other options:
+Practically speaking there are few choices of material for the base (prices have been taken from a single supplier and so are only a relative guide, not absolute). Note that layered designs are not absolutely required to use the same material for all layers though there is some risk of differential expansion.
 
 - **Plywood**. Typically 5.5mm thick and avaialble usually with a very thin hardwood veneer. This is lighter than MDF and more resistant to moisture and impact on fine edges. It is also perhaps less likely to be flat across a whole sheet. Varies a lot by supplier, Relatively cheap hardwood external grade stuff is common. Guide prices around £25/sheet. High quality Marine plywood in 6mm is likely to be £80/sheet and 6mm Birch plywood is about £76/sheet. **Unless a known quality, named brand with guaranteed thickness can be found, plywood is probably not a safe choice for the top surface of the maze.**
 <br>
@@ -22,3 +21,9 @@ For more details see [Medite MDF](./materials/053-Medite-MDF.md) in the [Materia
 - **Valchromat** is the most widely available dyed MDF. Its properties are similar to MDF but the fibres are dyed before manufacture producing a consistent colour throughout the sheet. The thinnest sheets of Valchromat are 8mm which makes it good for a top layer but too thick for a three-layer design on all three layers. Surface properties are similar to Medite but it is possible to use it without any further paint of finish. A surface sealer might be wise though. Valchromat if _very_ expensive though and starts at £100 per sheet. 
 For more details about various black MDF types look at [Black MDF](./materials/057-Black-MDF.md) in the [Materials](./materials/) directory.
 <br>  
+
+- **Kitronic Dyed MDF** is a product that is dyed black throughout, very durable and availale in cut panels at a significantly better price than Valchromat. Cutting tests are needed for suitability with common laser cutters. The surface is very good and has high absorbtion of IR light.
+For more details about the Kitronic material see [Kitronic Black MDF](./materials/058-Kitronic-Black-MDF.md) in the [Materials](./materials/) directory.
+
+## Stability
+Note that, in general, plywood is more stable in the long term than MDF and unlikely to suffer lasting damage from excess moisture. 
