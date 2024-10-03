@@ -2,7 +2,9 @@
 
 For now this repository concerns itself only with the building of a maze for the classic micromouse contest. At some point this will be extended to the half-size contest.
 
-If you are looking for drawings and STL files they are all in the [resources](./resources/) folder
+Drawings and STL files for the maze base are in the [resources](./resources/) folder
+
+Drawings and STL files for the walls and posts are in the [walls-and-posts](./walls-and-posts/) folder
 
 
 These notes are divided into (not very well organised) sections:
