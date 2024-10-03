@@ -4,12 +4,12 @@
 
 Although walls can be 3D printed, the UKMARS contest walls are all made from MDF. Suitable blanks are constructed and then covered with self-adhesive vinyl. The red top is created by adding red masking tape. These materials adhere well enough for contest use and provide a uniform and repeatable surface for sensor calibration.
 
-Each wall has tabs at either end to locate in slots in the posts. The tabs are symmetric to makee it easy to insert a wall either way up. With a different bottom surface, walls can easily be inverted to mark off special sections or temporary walls. This is particularly useful when creating a wall-follower maze that is then converted to a normal maze-solver version.
+Each wall has tabs at either end to locate in slots in the posts. Tabs are made from 2mm plywood and glued into slots cut in the wall ends. Any common wood glue will be fine. Do not use the dark brown Gorilla Glue as it expands while curing. The tabs are symmetric to make it easy to insert a wall either way up. With a different bottom surface, walls can easily be inverted to mark off special sections or temporary walls. This is particularly useful when creating a wall-follower maze that is then converted to a normal maze-solver version.
 
 ![Classic Walls](walls-and-posts/classic-maze-walls-2024.png)
 
 
-It is possible to make 3D printed walls with an FDM printer. Simply printing the STL file however will be pretty slow. A better solution is modify the slicer settings to use only two outer wall loops, 3 or 4 bottom layers, no top layers and no infill. You can use a relatively large layer height of 0.24mm or more. This creates a hollow wall that can be filled with two pieces of 5mm foamboard for a lightweight and strong wall. The wall should be covered with white self-adhesive vinyl in the same way that the MDF walls are. It may be necessary to add glue to the inside of the walls to prevent them from bowing out around the foamboard filler.
+It is possible to make 3D printed walls with an FDM printer. Simply printing the STL file however will be pretty slow. A better solution is modify the slicer settings to use only two outer wall loops, 3 or 4 bottom layers, no top layers and no infill. You can use a relatively large layer height of 0.24mm or more. This creates a hollow wall that can be filled with two pieces of 5mm foamboard for a lightweight and strong wall. The wall should be covered with white self-adhesive vinyl in the same way that the MDF walls are. It may be necessary to add glue to the inside of the walls to prevent them from bowing out around the foamboard filler. Most common glue types will be fine. Hold the walls together while it sets. Do not use the dark brown Gorilla Glue as it expands while curing. 
 
 ![Classic Wall Shelld and Filled](walls-and-posts/classic-wall-shells-on-printer.png)
 ![Classic Wall Shelled](walls-and-posts/classic-wall-shell-filled.png)
@@ -18,7 +18,7 @@ It is possible to make 3D printed walls with an FDM printer. Simply printing the
 
 If you have a fancy multi-filament printer, you can even print the bottom two layers with a red filament.
 
-In the [walls-and-posts](walls-and-posts) folder, there is a .3mf file showing how to set upi the slicing.
+In the [walls-and-posts](walls-and-posts) folder, there is a .3mf file showing how to set up the slicing.
 
 Note that the walls are a little under the 168mm available between posts. That should ensure some tolerance in manufature. If you make walls, be sure they are no longer than 168mm or there will be problems with the fit.
 
